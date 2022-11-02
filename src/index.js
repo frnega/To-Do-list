@@ -17,7 +17,7 @@ document.querySelector('.clear-completed').addEventListener('click', () => {
   todoList.clearCompleted();
 });
 
-//  clears all handler
+//  clears all handler interactive
 document.querySelector('#delete-all').addEventListener('click', () => {
   todoList.clearAll();
 });
