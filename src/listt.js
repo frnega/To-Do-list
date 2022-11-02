@@ -102,7 +102,6 @@ export default class List {
   }
 
   activateActions() {
-    // This code changes checkbox activity
     const updateStatusBtns = document.querySelectorAll('.update-status');
     if (updateStatusBtns !== null) {
       updateStatusBtns.forEach((item) => {
@@ -111,7 +110,6 @@ export default class List {
         });
       });
     }
-    // this code is for the delete activity button
     const deleteBtns = document.querySelectorAll('.delete-activity');
     if (deleteBtns) {
       deleteBtns.forEach((activity) => {
@@ -120,7 +118,6 @@ export default class List {
         });
       });
     }
-    // this code edits the activity handler
     const activities = document.querySelectorAll('.activity');
     if (activities) {
       activities.forEach((activity) => {
