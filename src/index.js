@@ -1,5 +1,6 @@
 import './style.css';
-import List from './list.js'
+
+import List from './listt.js'
 const todoList = new List();
 todoList.display();
 // adds new Activity
