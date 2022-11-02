@@ -1,5 +1,5 @@
 import './style.css';
-import List from './listt.js'
+import List from './listt.js';
 const todoList = new List();
 todoList.display();
 document.querySelector('#add-task').addEventListener('submit', (e) => {
