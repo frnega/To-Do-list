@@ -5,9 +5,9 @@ In this project, you will build a simple HTML list of To Do tasks. The list will
 
 # WORK FLOW SCREEN 
 ## SCREEN SHOT
-
+![screenshot](image/screen.PNG)
 ## Live Demo
-
+  https://frnega.github.io/To-Do-list/dist/
 ## Built With
 ### Major languages
 - HTML
