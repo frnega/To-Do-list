@@ -26,7 +26,7 @@ In this project, you will build a simple HTML list of To Do tasks. The list will
 2. clone it using git clone and use it on your local repo
 
 ## Author
-👤 Kalolo Chola Lemba
+👤  Frehiywot Nega
 
 - GitHub: [@frnega ](https://github.com/frnega)
 - 
